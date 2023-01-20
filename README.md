@@ -65,3 +65,6 @@ S3 Bucket Metadata Management
 
 ## References
 - [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+- [gzip](https://docs.python.org/3/library/gzip.html)
+- [shutil](https://docs.python.org/es/3/library/shutil.html)
+- [os](https://docs.python.org/es/3.10/library/os.html)
