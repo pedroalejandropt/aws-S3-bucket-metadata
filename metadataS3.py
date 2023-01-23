@@ -50,7 +50,7 @@ def get_content_type(object_name):
     if (object_name.endswith('.png')):
         return 'image/png'
     if (object_name.endswith('.cdx')):
-        return 'chemical/x-mdl-molfile'
+        return 'chemical/x-cdx'
     return 'application/octet-stream'
     
 """
